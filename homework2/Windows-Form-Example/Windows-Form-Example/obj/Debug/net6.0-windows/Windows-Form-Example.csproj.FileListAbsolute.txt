@@ -1,0 +1,16 @@
+C:\Users\uwuvo\Masaüstü\programlama\project1\homework2\Windows-Form-Example\Windows-Form-Example\bin\Debug\net6.0-windows\Windows-Form-Example.exe
+C:\Users\uwuvo\Masaüstü\programlama\project1\homework2\Windows-Form-Example\Windows-Form-Example\bin\Debug\net6.0-windows\Windows-Form-Example.deps.json
+C:\Users\uwuvo\Masaüstü\programlama\project1\homework2\Windows-Form-Example\Windows-Form-Example\bin\Debug\net6.0-windows\Windows-Form-Example.runtimeconfig.json
+C:\Users\uwuvo\Masaüstü\programlama\project1\homework2\Windows-Form-Example\Windows-Form-Example\bin\Debug\net6.0-windows\Windows-Form-Example.dll
+C:\Users\uwuvo\Masaüstü\programlama\project1\homework2\Windows-Form-Example\Windows-Form-Example\bin\Debug\net6.0-windows\Windows-Form-Example.pdb
+C:\Users\uwuvo\Masaüstü\programlama\project1\homework2\Windows-Form-Example\Windows-Form-Example\obj\Debug\net6.0-windows\Windows_Form_Example.Form1.resources
+C:\Users\uwuvo\Masaüstü\programlama\project1\homework2\Windows-Form-Example\Windows-Form-Example\obj\Debug\net6.0-windows\Windows-Form-Example.csproj.GenerateResource.cache
+C:\Users\uwuvo\Masaüstü\programlama\project1\homework2\Windows-Form-Example\Windows-Form-Example\obj\Debug\net6.0-windows\Windows-Form-Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uwuvo\Masaüstü\programlama\project1\homework2\Windows-Form-Example\Windows-Form-Example\obj\Debug\net6.0-windows\Windows-Form-Example.AssemblyInfoInputs.cache
+C:\Users\uwuvo\Masaüstü\programlama\project1\homework2\Windows-Form-Example\Windows-Form-Example\obj\Debug\net6.0-windows\Windows-Form-Example.AssemblyInfo.cs
+C:\Users\uwuvo\Masaüstü\programlama\project1\homework2\Windows-Form-Example\Windows-Form-Example\obj\Debug\net6.0-windows\Windows-Form-Example.csproj.CoreCompileInputs.cache
+C:\Users\uwuvo\Masaüstü\programlama\project1\homework2\Windows-Form-Example\Windows-Form-Example\obj\Debug\net6.0-windows\Windows-Form-Example.dll
+C:\Users\uwuvo\Masaüstü\programlama\project1\homework2\Windows-Form-Example\Windows-Form-Example\obj\Debug\net6.0-windows\refint\Windows-Form-Example.dll
+C:\Users\uwuvo\Masaüstü\programlama\project1\homework2\Windows-Form-Example\Windows-Form-Example\obj\Debug\net6.0-windows\Windows-Form-Example.pdb
+C:\Users\uwuvo\Masaüstü\programlama\project1\homework2\Windows-Form-Example\Windows-Form-Example\obj\Debug\net6.0-windows\Windows-Form-Example.genruntimeconfig.cache
+C:\Users\uwuvo\Masaüstü\programlama\project1\homework2\Windows-Form-Example\Windows-Form-Example\obj\Debug\net6.0-windows\ref\Windows-Form-Example.dll
